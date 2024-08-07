@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.0](https://github.com/devops-ia/terraform-nexus-security/compare/v1.0.0...v1.1.0) (2024-08-07)
+
+
+### Features
+
+* Update-files ([#2](https://github.com/devops-ia/terraform-nexus-security/issues/2)) ([0099cbd](https://github.com/devops-ia/terraform-nexus-security/commit/0099cbd2b54862161fe805632f0506019ec6eea1))
+
 ## 1.0.0 (2024-02-20)
 
 
